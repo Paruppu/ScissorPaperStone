@@ -1,0 +1,8 @@
+numpy
+matplotlib
+cv2
+keras
+pandas
+h5py
+scipy v 1.2.1
+tensorflow v 1.15
